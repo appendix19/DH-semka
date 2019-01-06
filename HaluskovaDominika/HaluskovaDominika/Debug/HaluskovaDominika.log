@@ -1,0 +1,14 @@
+﻿  Main.cpp
+  Banka.cpp
+c:\users\appendix\desktop\haluskovadominika\haluskovadominika\banka.cpp(60): warning C4018: '<': signed/unsigned mismatch
+c:\users\appendix\desktop\haluskovadominika\haluskovadominika\banka.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\appendix\desktop\haluskovadominika\haluskovadominika\banka.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\utility(40): error C2100: illegal indirection
+  c:\users\appendix\desktop\haluskovadominika\haluskovadominika\banka.cpp(69): note: see reference to function template instantiation 'void std::iter_swap<Ucet,Ucet>(_FwdIt1,_FwdIt2)' being compiled
+          with
+          [
+              _FwdIt1=Ucet,
+              _FwdIt2=Ucet
+          ]
+  Generating Code...
+c:\users\appendix\desktop\haluskovadominika\haluskovadominika\main.cpp(102): error C4700: uninitialized local variable 'ucty' used
